@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>NLP Ph.D. Candidate at Princeton University<br>Student Researcher at Allen Institute for AI (AI2)</b>
 
