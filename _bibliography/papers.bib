@@ -16,11 +16,36 @@
   abbr={Analysis},
   abstract={In this paper, we propose a simple and effective technique to allow for efficient self-supervised learning with bi-directional Transformers. Our approach is motivated by recent studies demonstrating that self-attention patterns in trained models contain a majority of non-linguistic regularities. We propose a computationally efficient auxiliary loss function to guide attention heads to conform to such patterns. Our method is agnostic to the actual pre-training objective and results in faster convergence of models as well as better performance on downstream tasks compared to the baselines, achieving state of the art results in low-resource settings. Surprisingly, we also find that linguistic properties of attention heads are not necessarily correlated with language modeling performance.},
   bibtex_show={true},
-  preview={Figurenet.png},
+  preview={Guiding.png},
   pdf={https://arxiv.org/pdf/2010.02399.pdf},
   title={Guiding Attention for Self-Supervised Learning with Transformers},
   author={Deshpande, Ameet and Narasimhan, Karthik},
   booktitle={Findings of the Association for Computational Linguistics: EMNLP 2020},
   pages={4676--4686},
   year={2020}
+}
+
+@inproceedings{deshpande2022bert,
+  abbr={Analysis,Multilingual},
+  abstract={While recent work on multilingual language models has demonstrated their capacity for cross-lingual zero-shot transfer on downstream tasks, there is a lack of consensus in the community as to what shared properties between languages enable such transfer. Analyses involving pairs of natural languages are often inconclusive and contradictory since languages simultaneously differ in many linguistic aspects. In this paper, we perform a large-scale empirical study to isolate the effects of various linguistic properties by measuring zero-shot transfer between four diverse natural languages and their counterparts constructed by modifying aspects such as the script, word order, and syntax. Among other things, our experiments show that the absence of sub-word overlap significantly affects zero-shot transfer when languages differ in their word order, and there is a strong correlation between transfer performance and word embedding alignment between languages (e.g., R=0.94 on the task of NLI). Our results call for focus in multilingual models on explicitly improving word embedding alignment between languages rather than relying on its implicit emergence.},
+  bibtex_show={true},
+  preview={Multilingual_1.png},
+  pdf={https://arxiv.org/pdf/2110.14782.pdf},
+  title={When is BERT Multilingual? Isolating Crucial Ingredients for Cross-lingual Transfer},
+  author={Deshpande, Ameet and Talukdar, Partha and Narasimhan, Karthik},
+  booktitle={Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages={3610--3623},
+  year={2022}
+}
+
+@article{hanjie2022semantic,
+  abbr={Zero-shot,NL-supervision},
+  abstract={In this paper, we propose Semantic Supervision (SemSup) - a unified paradigm for training classifiers that generalize over output spaces. In contrast to standard classification, which treats classes as discrete symbols, SemSup represents them as dense vector features obtained from descriptions of classes (e.g., "The cat is a small carnivorous mammal"). This allows the output space to be unbounded (in the space of descriptions) and enables models to generalize both over unseen inputs and unseen outputs (e.g. "The aardvark is a nocturnal burrowing mammal with long ears"). Specifically, SemSup enables four types of generalization, to -- (1) unseen class descriptions, (2) unseen classes, (3) unseen super-classes, and (4) unseen tasks. Through experiments on four classification datasets across two variants (multi-class and multi-label), two input modalities (text and images), and two output description modalities (text and JSON), we show that our SemSup models significantly outperform standard supervised models and existing models that leverage word embeddings over class names. For instance, our model outperforms baselines by 40% and 15% precision points on unseen descriptions and classes, respectively, on a news categorization dataset (RCV1). SemSup can serve as a pathway for scaling neural models to large unbounded output spaces and enabling better generalization and model reuse for unseen tasks and domains.},
+  bibtex_show={true},
+  preview={SemSup.png},
+  pdf={https://arxiv.org/pdf/2202.13100},
+  title={Semantic supervision: Enabling generalization over output spaces},
+  author={Hanjie, Austin W and Deshpande, Ameet and Narasimhan, Karthik},
+  journal={arXiv preprint arXiv:2202.13100},
+  year={2022}
 }
