@@ -21,12 +21,13 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. student in the computer science department at Princeton University advised by <a href='https://www.cs.princeton.edu/~karthikn/'>Prof. Karthik Narasimhan</a>.
 My research interests are broadly in the field of Natural Language Processing (NLP), with special emphasis on sub-topics like zero-shot and few-shot classification, evaluating large LMs, multilingual NLP, and efficient NLP.
 
-I am deeply passionate about teaching and view disseminating knowledge to be as important as the research I do.
-In my free time, I enjoy playing football (soccer), tennis, and the piano.
-
 I am currently a visiting Student Researcher at <a href='https://allenai.org'>Allen Institute for AI (AI2)</a> working with <a href='http://ashwinkalyan.com'>Dr. Ashwin Kalyan</a>.
 
+I am deeply passionate about teaching and view disseminating knowledge to be as important as the research I do.
+
 Previously, I received my B.Tech from IIT Madras, where I worked on reinforcement learning with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Balaraman Ravindran</a> and on NLP with <a href='http://ashwinkalyan.com'>Prof. Mitesh M. Khapra</a> and <a href='http://www.cse.iitm.ac.in/~sutanuc/'>Prof. Sutanu Chakraborti</a>.
+
+In my free time, I enjoy playing football (soccer), tennis, and the piano.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
