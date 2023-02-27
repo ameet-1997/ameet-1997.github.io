@@ -13,8 +13,7 @@
             class="preview z-depth-1 rounded"
             alt=entry.preview -%}
           {%- endif -%}
-        {%- endif -%}
-        {%- if entry.abbr -%}
+        {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.abbr].color != blank -%}
