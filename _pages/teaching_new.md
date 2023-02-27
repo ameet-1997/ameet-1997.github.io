@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: TeachingNew
+permalink: /teachingnew/
 description: 
 nav: true
 nav_order: 8
