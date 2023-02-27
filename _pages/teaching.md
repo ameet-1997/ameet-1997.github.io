@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: I am deeply passionate about educating and teaching. Below are some workshops and courses I have taught.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
