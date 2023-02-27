@@ -8,6 +8,7 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+<!-- Look at /_layouts/bib.html for button options -->
 <div class="publications">
 
 {%- for y in page.years %}
