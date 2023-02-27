@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student in the computer science department at Princeton University advised by <a href='https://www.cs.princeton.edu/~karthikn/'>Prof. Karthik Narasimhan</a>.
-My research interests are broadly in the field of Natural Language Processing (NLP), with special emphasis on sub-topics like zero-shot and few-shot classification, semantic text similarity, multilingual NLP, and efficient architectures.
+My research interests are broadly in the field of Natural Language Processing (NLP), with special emphasis on sub-topics like zero-shot and few-shot classification, evaluating large LMs, multilingual NLP, and efficient NLP.
 
 I am deeply passionate about teaching and view disseminating knowledge to be as important as the research I do.
 In my free time, I enjoy playing football (soccer), tennis, and the piano.
