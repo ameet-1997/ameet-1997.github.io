@@ -23,7 +23,7 @@ My research interests are broadly in the field of Natural Language Processing (N
 I am deeply passionate about teaching and view disseminating knowledge to be as important as the research I do.
 In my free time, I enjoy playing football (soccer), tennis, and the piano.
 
-I am currently a visiting Student Researcher at <a href='https://allenai.org'>Allen Institute for AI (AI2)</a> working with <a href='http://ashwinkalyan.com'>Ashwin Kalyan</a>.
+I am currently a visiting Student Researcher at <a href='https://allenai.org'>Allen Institute for AI (AI2)</a> working with <a href='http://ashwinkalyan.com'>Dr. Ashwin Kalyan</a>.
 
 Previously, I received my B.Tech from IIT Madras, where I worked on reinforcement learning with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Balaraman Ravindran</a> and on NLP with <a href='http://ashwinkalyan.com'>Prof. Mitesh M. Khapra</a> and <a href='http://www.cse.iitm.ac.in/~sutanuc/'>Prof. Sutanu Chakraborti</a>.
 

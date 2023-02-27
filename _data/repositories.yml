@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ameet-1997
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - princeton-nlp/semsup
+  - princeton-nlp/SPARTAN
+  - princeton-nlp/MultilingualAnalysis
+  - ameet-1997/AttentionGuidance
