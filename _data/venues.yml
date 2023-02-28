@@ -4,3 +4,21 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Efficient-NLP":
+  color: "#D8E61C"
+
+"Multilingual":
+  color: "#D8E61C"
+
+"Zero-shot":
+  color: "#D8E61C"
+
+"RL":
+  color: "#D8E61C"  
+
+"Word-similarity":
+  color: "#DE90A7"
+
+"Geometric-learning":
+  color: "#DE90A7"

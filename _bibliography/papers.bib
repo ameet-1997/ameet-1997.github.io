@@ -13,7 +13,7 @@
 }
 
 @inproceedings{deshpande2020guiding,
-  abbr={Analysis},
+  abbr={Efficient-NLP},
   abstract={In this paper, we propose a simple and effective technique to allow for efficient self-supervised learning with bi-directional Transformers. Our approach is motivated by recent studies demonstrating that self-attention patterns in trained models contain a majority of non-linguistic regularities. We propose a computationally efficient auxiliary loss function to guide attention heads to conform to such patterns. Our method is agnostic to the actual pre-training objective and results in faster convergence of models as well as better performance on downstream tasks compared to the baselines, achieving state of the art results in low-resource settings. Surprisingly, we also find that linguistic properties of attention heads are not necessarily correlated with language modeling performance.},
   bibtex_show={true},
   preview={Guiding.png},
@@ -26,7 +26,7 @@
 }
 
 @inproceedings{deshpande2022bert,
-  abbr={Analysis,Multilingual},
+  abbr={Multilingual},
   abstract={While recent work on multilingual language models has demonstrated their capacity for cross-lingual zero-shot transfer on downstream tasks, there is a lack of consensus in the community as to what shared properties between languages enable such transfer. Analyses involving pairs of natural languages are often inconclusive and contradictory since languages simultaneously differ in many linguistic aspects. In this paper, we perform a large-scale empirical study to isolate the effects of various linguistic properties by measuring zero-shot transfer between four diverse natural languages and their counterparts constructed by modifying aspects such as the script, word order, and syntax. Among other things, our experiments show that the absence of sub-word overlap significantly affects zero-shot transfer when languages differ in their word order, and there is a strong correlation between transfer performance and word embedding alignment between languages (e.g., R=0.94 on the task of NLI). Our results call for focus in multilingual models on explicitly improving word embedding alignment between languages rather than relying on its implicit emergence.},
   bibtex_show={true},
   preview={Multilingual_1.png},
@@ -39,7 +39,7 @@
 }
 
 @article{hanjie2022semantic,
-  abbr={Zero-shot,NL-supervision},
+  abbr={Zero-shot},
   abstract={In this paper, we propose Semantic Supervision (SemSup) - a unified paradigm for training classifiers that generalize over output spaces. In contrast to standard classification, which treats classes as discrete symbols, SemSup represents them as dense vector features obtained from descriptions of classes (e.g., "The cat is a small carnivorous mammal"). This allows the output space to be unbounded (in the space of descriptions) and enables models to generalize both over unseen inputs and unseen outputs (e.g. "The aardvark is a nocturnal burrowing mammal with long ears"). Specifically, SemSup enables four types of generalization, to -- (1) unseen class descriptions, (2) unseen classes, (3) unseen super-classes, and (4) unseen tasks. Through experiments on four classification datasets across two variants (multi-class and multi-label), two input modalities (text and images), and two output description modalities (text and JSON), we show that our SemSup models significantly outperform standard supervised models and existing models that leverage word embeddings over class names. For instance, our model outperforms baselines by 40% and 15% precision points on unseen descriptions and classes, respectively, on a news categorization dataset (RCV1). SemSup can serve as a pathway for scaling neural models to large unbounded output spaces and enabling better generalization and model reuse for unseen tasks and domains.},
   bibtex_show={true},
   preview={SemSup.png},
@@ -51,7 +51,7 @@
 }
 
 @article{deshpande2020evaluating,
-  abbr={GANs,Retrieval},
+  abbr={Retrieval},
   abstract={Recent advances in Generative Adversarial Networks (GANs) have resulted in its widespread applications to multiple domains. A recent model, IRGAN, applies this framework to Information Retrieval (IR) and has gained significant attention over the last few years. In this focused work, we critically analyze multiple components of IRGAN, while providing experimental and theoretical evidence of some of its shortcomings. Specifically, we identify issues with the constant baseline term in the policy gradients optimization and show that the generator harms IRGAN's performance. Motivated by our findings, we propose two models influenced by self-contrastive estimation and co-training which outperform IRGAN on two out of the three tasks considered.},
   bibtex_show={true},
   preview={IRGAN.png},
@@ -87,7 +87,7 @@
 }
 
 @article{aggarwal2023semsup,
-  abbr={Zero-shot,Extreme Classification},
+  abbr={Zero-shot},
   abstract={Extreme classification (XC) involves predicting over large numbers of classes (thousands to millions), with real-world applications like news article classification and e-commerce product tagging. The zero-shot version of this task requires generalization to novel classes without additional supervision. In this paper, we develop SemSup-XC, a model that achieves state-of-the-art zero-shot and few-shot performance on three XC datasets derived from legal, e-commerce, and Wikipedia data. To develop SemSup-XC, we use automatically collected semantic class descriptions to represent classes and facilitate generalization through a novel hybrid matching module that matches input instances to class descriptions using a combination of semantic and lexical similarity. Trained with contrastive learning, SemSup-XC significantly outperforms baselines and establishes state-of-the-art performance on all three datasets considered, gaining up to 12 precision points on zero-shot and more than 10 precision points on one-shot tests, with similar gains for recall@10. Our ablation studies highlight the relative importance of our hybrid matching module and automatically collected class descriptions.},
   bibtex_show={true},
   preview={SemSup_XC.png},
@@ -99,7 +99,7 @@
 }
 
 @article{deshpande2022spartan,
-  abbr={Efficient NLP},
+  abbr={Efficient-NLP},
   abstract={Fine-tuning pre-trained language models (PLMs) achieves impressive performance on a range of downstream tasks, and their sizes have consequently been getting bigger. Since a different copy of the model is required for each task, this paradigm is infeasible for storage-constrained edge devices like mobile phones. In this paper, we propose SPARTAN, a parameter efficient (PE) and computationally fast architecture for edge devices that adds hierarchically organized sparse memory after each Transformer layer. SPARTAN freezes the PLM parameters and fine-tunes only its memory, thus significantly reducing storage costs by re-using the PLM backbone for different tasks. SPARTAN contains two levels of memory, with only a sparse subset of parents being chosen in the first level for each input, and children cells corresponding to those parents being used to compute an output representation. This sparsity combined with other architecture optimizations improves SPARTAN's throughput by over 90% during inference on a Raspberry Pi 4 when compared to PE baselines (adapters) while also outperforming the latter by 0.1 points on the GLUE benchmark. Further, it can be trained 34% faster in a few-shot setting, while performing within 0.9 points of adapters. Qualitative analysis shows that different parent cells in SPARTAN specialize in different topics, thus dividing responsibility efficiently.},
   bibtex_show={true},
   preview={SPARTAN.png},
@@ -123,7 +123,7 @@
 }
 
 @inproceedings{saqur2020clevr,
-  abbr={Geometric Learning},
+  abbr={Geometric-learning},
   abstract={The CLEVR dataset has been used extensively in language grounded visual reasoning in Machine Learning (ML) and Natural Language Processing (NLP) domains. We present a graph parser library for CLEVR, that provides functionalities for object-centric attributes and relationships extraction, and construction of structural graph representations for dual modalities. Structural order-invariant representations enable geometric learning and can aid in downstream tasks like language grounding to vision, robotics, compositionality, interpretability, and computational grammar construction. We provide three extensible main components - parser, embedder, and visualizer that can be tailored to suit specific learning setups. We also provide out-of-the-box functionality for seamless integration with popular deep graph neural network (GNN) libraries. Additionally, we discuss downstream usage and applications of the library, and how it accelerates research for the NLP research community.},
   bibtex_show={true},
   preview={CLEVR.png},
@@ -136,7 +136,7 @@
 }
 
 @inproceedings{deshpande2019leveraging,
-  abbr={Word similarity},
+  abbr={Word-similarity},
   abstract={Neural Language Models such as Word2Vec and GloVe have been shown to encode semantic relatedness between words. Improvements in unearthing these embeddings can ameliorate performance in numerous downstream applications such as sentiment analysis, question answering, and dialogue generation. Lexical ontologies such as WordNet are known to supply information about semantic similarity rather than relatedness. Further, extracting word embeddings from small corpora is daunting for data-hungry neural networks. This work shows how methods that conflate Word2Vec and Ontologies can achieve better performance, reduce training time and help adapt to domains with a minimum amount of data.},
   bibtex_show={true},
   preview={Ontology.png},

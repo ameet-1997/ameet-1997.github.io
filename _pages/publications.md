@@ -9,6 +9,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <!-- Look at /_layouts/bib.html for button options -->
+<!-- Colors for buttons are here: /Users/ameet/Stuff/Academics/Personal_Website/ameet-1997.github.io/_data/venues.yml -->
 <div class="publications">
 
 {%- for y in page.years %}
