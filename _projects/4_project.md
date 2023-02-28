@@ -1,22 +1,18 @@
 ---
 layout: page
-title: Deep Learning Masterclass
+title: Princeton AI4All
 description: IIT Madras
-img: assets/img/princeton_shield_0.png
+img: assets/img/ai4all.png
 importance: 1
 category: work
 ---
 
-Conducted classes covering basics of Machine Learning and Deep Learning, Optimization, Regularization, CNNs, Word Vectors, RNNs and Encoder-Decoder Models for an audience of 90 people comprising Undergraduate and Post-Graduate students
+Research instructor for Princeton AI4ALL, an initiative intended to improve diversity and inclusion in the field of artificial intelligence. Developed material, taught classes, and mentored a group of six students on a Natural Language Processing project on detecting fake news.
 
-Developed some content and borrowed some from [<span style="color:blue">Prof. Mitesh M. Khapra's</span>](https://www.cse.iitm.ac.in/~miteshk/) Deep Learning course (CS7015)
+Apply [<span style="color:blue">here</span>](https://ai4all.princeton.edu) if you are interested to attend!
 
-The following were the topics covered over a span of 1 month
-
-- Basics of Machine Learning [<span style="color:blue">[Slides]</span>](https://drive.google.com/open?id=14MRJleQh98riDF88z4zm_4mWuEIO4YFI)
-- Multi Layer Perceptrons [<span style="color:blue">[Slides]</span>](https://drive.google.com/file/d/0BxkBNdPqeM3GQUNJd29QeVVKQld3bnYwbjNheUt4Nl9FcDhJ/view)
-- Regularization and Optimization [<span style="color:blue">[Link 1]</span>](https://drive.google.com/file/d/1P5Hh5AhoaUZC0C7vgeG15-ebToSP6NyG/view) [<span style="color:blue">[Link 2]</span>](https://drive.google.com/file/d/1Yl2MAn6_Pok3hqwD8bw85C3YFRT5xGQf/view)
-- Convolutional Neural Networks [<span style="color:blue">[Slides]</span>](https://ameet-1997.github.io/files/CNN.pdf)
-- Word Vectors
-- Recurrent Neural Networks
-- Encoder-Decoder Models
+It's extremely satisying to hear back from students and see how they apply AI!
+This was one of the responses:
+```
+Just wanted to thank you again for being such a great instructor. You really were there for us the whole time and never made a single lecture boring. You supported us through the powerpoint and I can't thank you enough! You taught me a lot and hopefully I can put that to good use one day.
+```
