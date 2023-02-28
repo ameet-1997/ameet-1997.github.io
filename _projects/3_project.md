@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning Masterclass
 description: IIT Madras
 img: assets/img/IIT_Madras_Logo.png
-importance: 1
+importance: 2
 category: work
 ---
 
