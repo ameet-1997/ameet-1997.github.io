@@ -13,4 +13,6 @@ I am interested in building parameter-efficient and fast throughput architecture
 In an earlier work, we showed that even existing architectures like the Transformer can be made to converge significantly faster during pre-training by guiding their attention patterns <a href="https://arxiv.org/pdf/2010.02399.pdf">[3]</a>.
 
 #### Reinforcement learning
-List papers here.
+I am particularly interested in how to use RL for NLP, and vice-versa.
+We showed that using sentiment analysis to predict the sentiment of text observations can be useful for reward shaping<a href="https://arxiv.org/pdf/2010.02316">[1]</a>.
+Previously, I have worked on inferring options from offline expert trajectories<a href="https://arxiv.org/pdf/1812.00225">[2]</a> and improving hindsigh learning<a href="https://arxiv.org/pdf/1809.06719">[3]</a>.
