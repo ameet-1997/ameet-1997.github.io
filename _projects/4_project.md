@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Princeton AI4All
-description: IIT Madras
+description: Princeton University
 img: assets/img/ai4all.png
 importance: 1
 category: work
