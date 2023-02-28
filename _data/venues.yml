@@ -5,20 +5,26 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Efficient-NLP":
-  color: "#D8E61C"
+# "Efficient-NLP":
+#   color: "#F2DFD0"
 
-"Multilingual":
-  color: "#D8E61C"
+# "Multilingual":
+#   color: "#F2DFD0"
 
-"Zero-shot":
-  color: "#D8E61C"
+# "Zero-shot":
+#   color: "#F2DFD0"
 
-"RL":
-  color: "#D8E61C"  
+# "RL":
+#   color: "#F2DFD0"
 
-"Word-similarity":
-  color: "#DE90A7"
+# "Word-similarity":
+#   color: "#F2DFD0"
 
-"Geometric-learning":
-  color: "#DE90A7"
+# "Geometric-learning":
+#   color: "#F2DFD0"
+
+# "Retrieval":
+#   color: "#F2DFD0"
+
+# "QA":
+#   color: "#F2DFD0"
