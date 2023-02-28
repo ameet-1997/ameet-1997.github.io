@@ -2,7 +2,7 @@
 layout: page
 title: PiCSciE Workshop
 description: How does ChatGPT work?
-img: assets/img/images/ChatGPT_workshop.png
+img: assets/img/ChatGPT_workshop.png
 importance: 1
 category: work
 ---
