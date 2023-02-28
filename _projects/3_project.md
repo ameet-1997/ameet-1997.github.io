@@ -1,81 +1,22 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Deep Learning Masterclass
+description: IIT Madras
+img: assets/img/IIT_Madras_Logo.png
+importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Conducted classes covering basics of Machine Learning and Deep Learning, Optimization, Regularization, CNNs, Word Vectors, RNNs and Encoder-Decoder Models for an audience of 90 people comprising Undergraduate and Post-Graduate students
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Developed some content and borrowed some from [<span style="color:blue">Prof. Mitesh M. Khapra's</span>](https://www.cse.iitm.ac.in/~miteshk/) Deep Learning course (CS7015)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The following were the topics covered over a span of 1 month
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+- Basics of Machine Learning [<span style="color:blue">[Slides]</span>](https://drive.google.com/open?id=14MRJleQh98riDF88z4zm_4mWuEIO4YFI)
+- Multi Layer Perceptrons [<span style="color:blue">[Slides]</span>](https://drive.google.com/file/d/0BxkBNdPqeM3GQUNJd29QeVVKQld3bnYwbjNheUt4Nl9FcDhJ/view)
+- Regularization and Optimization [<span style="color:blue">[Link 1]</span>](https://drive.google.com/file/d/1P5Hh5AhoaUZC0C7vgeG15-ebToSP6NyG/view) [<span style="color:blue">[Link 2]</span>](https://drive.google.com/file/d/1Yl2MAn6_Pok3hqwD8bw85C3YFRT5xGQf/view)
+- Convolutional Neural Networks [<span style="color:blue">[Slides]</span>](https://ameet-1997.github.io/files/CNN.pdf)
+- Word Vectors
+- Recurrent Neural Networks
+- Encoder-Decoder Models

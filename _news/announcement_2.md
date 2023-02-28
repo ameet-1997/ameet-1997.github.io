@@ -10,4 +10,4 @@ You can find the link to slides <a href="https://docs.google.com/presentation/d/
 Feel free to adapt and use it!
 
 ### Photos
-<img src="../assets/img/images/ChatGPT_workshop.jpg" alt="ChatGPT workshop">
+<img src="assets/img/images/ChatGPT_workshop.jpg" alt="ChatGPT workshop">
