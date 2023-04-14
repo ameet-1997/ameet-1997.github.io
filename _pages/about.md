@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student in the computer science department at Princeton University advised by <a href='https://www.cs.princeton.edu/~karthikn/'>Prof. Karthik Narasimhan</a>.
-My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics like zero-shot and few-shot classification, efficient NLP, evaluation of large LMs, and multilingual NLP.
+My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, zero-shot and few-shot classification, efficient NLP, evaluation of large LMs, and multilingual NLP.
 
 I am currently a visiting Student Researcher at <a href='https://allenai.org'>Allen Institute for AI (AI2)</a> working with <a href='http://ashwinkalyan.com'>Dr. Ashwin Kalyan</a> as part of the <a href="https://allenai.org/aristo">Aristo team</a>.
 
