@@ -4,4 +4,4 @@ date: 2023-04-12 01:00:00-0000
 inline: true
 ---
 
-Our work on AI safety which analyzes toxicity in ChatGPT was featured on <a href="https://venturebeat.com/ai/chatgpt-can-turn-toxic-just-by-changing-its-assigned-persona-researchers-say/">VentureBeat</a> and <a href="https://venturebeat.com/ai/chatgpt-can-turn-toxic-just-by-changing-its-assigned-persona-researchers-say/">TechCrunch</a>.
+Our work on AI safety which analyzes toxicity in ChatGPT was featured on media outlets like <a href="https://venturebeat.com/ai/chatgpt-can-turn-toxic-just-by-changing-its-assigned-persona-researchers-say/">VentureBeat</a>, <a href="https://techcrunch.com/2023/04/12/researchers-discover-a-way-to-make-chatgpt-consistently-toxic/">TechCrunch</a>, and <a href="https://gizmodo.com/chatgpt-ai-openai-study-frees-chat-gpt-inner-racist-1850333646">Gizmodo</a>.
