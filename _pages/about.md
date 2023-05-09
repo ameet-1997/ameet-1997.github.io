@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>NLP Ph.D. Candidate at Princeton University<br>Student Researcher at Allen Institute for AI (AI2)</b>
+subtitle: <b>NLP Ph.D. Candidate at Princeton University<br>Researcher at Allen Institute for AI (AI2)</b>
 
 profile:
   align: right
@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a computer scientist pursuing my Ph.D. at Princeton University.
-I am advised by <a href='https://www.cs.princeton.edu/~karthikn/'>Dr. Karthik Narasimhan</a>.
-My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, zero-shot and few-shot classification, efficient NLP, evaluation of large LMs, and multilingual NLP.
+I am a computer scientist pursuing my Ph.D. at Princeton University, advised by <a href='https://www.cs.princeton.edu/~karthikn/'>Dr. Karthik Narasimhan</a>.
+<!-- My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, evaluation of large LMs, data-efficient algorithms, efficient NLP architectures, and multilingual NLP. -->
+My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, data-efficient algorithms, efficient NLP architectures, and multilingual NLP.
 
-I am currently a visiting Student Researcher at <a href='https://allenai.org'>Allen Institute for AI (AI2)</a> working with <a href='http://ashwinkalyan.com'>Dr. Ashwin Kalyan</a> as part of the <a href="https://allenai.org/aristo">Aristo team</a>.
+I am currently visiting <a href='https://allenai.org'>Allen Institute for AI (AI2)</a> and working with <a href='http://ashwinkalyan.com'>Dr. Ashwin Kalyan</a> as part of the <a href="https://allenai.org/aristo">Aristo team</a>.
 
 I am deeply passionate about teaching and view disseminating knowledge to be as important as the research I do.
 
