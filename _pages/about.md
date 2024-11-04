@@ -22,13 +22,11 @@ I am a computer scientist pursuing my Ph.D. at Princeton University, advised by 
 <!-- My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, evaluation of large LMs, data-efficient algorithms, efficient NLP architectures, and multilingual NLP. -->
 My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, data-efficient algorithms, efficient NLP architectures, and multilingual NLP.
 
-I am currently visiting <a href='https://allenai.org'>Allen Institute for AI (AI2)</a> and working with <a href='http://ashwinkalyan.com'>Dr. Ashwin Kalyan</a> as part of the <a href="https://allenai.org/aristo">Aristo team</a>.
+Previously, I received my B.Tech from IIT Madras, where I worked on reinforcement learning with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Balaraman Ravindran</a> and on NLP with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Mitesh M. Khapra</a> and <a href='http://www.cse.iitm.ac.in/~sutanuc/'>Prof. Sutanu Chakraborti</a>.
 
 I am deeply passionate about teaching and view disseminating knowledge to be as important as the research I do.
 
-Previously, I received my B.Tech from IIT Madras, where I worked on reinforcement learning with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Balaraman Ravindran</a> and on NLP with <a href='http://ashwinkalyan.com'>Prof. Mitesh M. Khapra</a> and <a href='http://www.cse.iitm.ac.in/~sutanuc/'>Prof. Sutanu Chakraborti</a>.
-
-In my free time, I enjoy playing football (soccer), tennis, and the piano.
+In my free time, I enjoy playing golf, football (soccer), tennis, and the piano.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
