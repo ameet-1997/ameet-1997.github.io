@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>NLP Ph.D. Candidate at Princeton University<br>Researcher at Allen Institute for AI (AI2)</b>
+subtitle: <b>NLP Ph.D. Candidate at Princeton University<br>Currently on the job market</b>
 
 profile:
   align: right
