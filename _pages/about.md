@@ -22,7 +22,7 @@ I am a computer scientist pursuing my Ph.D. at Princeton University, advised by 
 <!-- My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, evaluation of large LMs, data-efficient algorithms, efficient NLP architectures, and multilingual NLP. -->
 My research interests are broadly in the field of natural language processing (NLP), with special emphasis on sub-topics of AI safety, data-efficient algorithms, efficient NLP architectures, and multilingual NLP.
 
-Previously, I received my B.Tech from IIT Madras, where I worked on reinforcement learning with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Balaraman Ravindran</a> and on NLP with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Mitesh M. Khapra</a> and <a href='http://www.cse.iitm.ac.in/~sutanuc/'>Prof. Sutanu Chakraborti</a>.
+Previously, I received my B.Tech from IIT Madras, where I worked on reinforcement learning with <a href='https://www.cse.iitm.ac.in/~ravi/'>Prof. Balaraman Ravindran</a> and on NLP with <a href='http://www.cse.iitm.ac.in/~miteshk/'>Prof. Mitesh M. Khapra</a> and <a href='http://www.cse.iitm.ac.in/~sutanuc/'>Prof. Sutanu Chakraborti</a>.
 
 I am deeply passionate about teaching and view disseminating knowledge to be as important as the research I do.
 
